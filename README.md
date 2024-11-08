@@ -258,6 +258,22 @@ int main()
 }
 ```
 
+# Output:
+
+a.<br>
+![image](https://github.com/user-attachments/assets/bd85c476-04e7-4e04-8ae7-2a6e1d730f70)
+<br>
+b.<br>
+![image](https://github.com/user-attachments/assets/aa90062c-3501-4489-84b1-2d60485c0ba8)
+<BR>
+c.<BR>
+![image](https://github.com/user-attachments/assets/21b88994-64af-4297-a4bf-3f8c15be9973)
+<BR>
+d.<BR>
+![image](https://github.com/user-attachments/assets/4f2d4e0a-f95f-4eea-b911-19f28dbaa2c8)
+<BR>
+
+
 # Conclusion:
 
 → We learnt about inheritance in C++.
